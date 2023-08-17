@@ -2,4 +2,4 @@
 Refactored object orientated version on OO branch.
 TODO: implement [minimax algorithm](https://en.wikipedia.org/wiki/Minimax)
  
-![terminal](terminal.gif)
+![terminal](terminal_long.gif)
